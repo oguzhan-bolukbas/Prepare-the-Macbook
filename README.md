@@ -13,21 +13,19 @@ Installation steps of required programs into Macbook to prepare it to develop so
 
 It also installs "Command Line Tools for Xcode"
 
-# 3 - # Install OpenJDK [1]
+# 3 - # Install JDK 17
 
-`brew install openjdk`
+### Download *Arm 64 DMG Installer* from:
+https://www.oracle.com/java/technologies/downloads/#jdk17-mac
 
-If you see "zsh: command not found: brew" error in terminal [2], probably it was caused by, homebrew was saved in "/opt/homebrew/", and not in "/usr/local/...."
+### Installing the JDK on macOS
+https://docs.oracle.com/en/java/javase/16/install/installation-jdk-macos.html#GUID-F575EB4A-70D3-4AB4-A20E-DBE95171AB5F
 
-To fix it, run the command:
-`export PATH=/opt/homebrew/bin:$PATH`
+### Uninstalling the JDK on macOS
+https://docs.oracle.com/en/java/javase/16/install/installation-jdk-macos.html#GUID-F9183C70-2E96-40F4-9104-F3814A5A331F
 
+# References:
 
-References:
-
-[1] - https://stackoverflow.com/questions/64788005/java-jdk-for-the-apple-silicon-chips
-
-[2] - https://stackoverflow.com/questions/36657321/after-installing-homebrew-i-get-zsh-command-not-found-brew/71919315
 
 [3] - 
 
