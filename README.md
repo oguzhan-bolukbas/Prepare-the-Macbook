@@ -74,6 +74,10 @@ https://code.visualstudio.com/download
 
 Under Mac, click "**Apple Silicon**"
 
+# Spectacle
+
+Spectacle: https://www.spectacleapp.com/
+
 # References:
 
 [1] - https://www.igeeksblog.com/how-to-install-homebrew-on-mac/
