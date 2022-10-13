@@ -74,9 +74,13 @@ https://code.visualstudio.com/download
 
 Under Mac, click "**Apple Silicon**"
 
-# Spectacle
+# 7 - Spectacle
 
 Spectacle: https://www.spectacleapp.com/
+
+# 8 - CMake
+
+For M1: `arch -arm64 brew install cmake` 
 
 # References:
 
